@@ -35,14 +35,11 @@
 
 # 🛠 Технологический стек
 
-## 🤖 Telegram Development
+## 🤖 Telegram Dev
 
 * Aiogram 3
 * Telethon
 * Telegram Bot API
-* FSM
-* Inline Keyboard
-* Webhooks
 
 ## 🌐 Backend
 
@@ -66,11 +63,12 @@
 * Playwright
 * Scrapy
 
-## 🤖 AI Integration
+## 🤖 AI
 
 * OpenRouter API
 * LLM Integration
 * AI Assistants
 
+С моими проектами можно ознакомиться ниже.
 
 ⭐ Спасибо, что заглянули в мой профиль!
